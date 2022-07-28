@@ -1,2 +1,3 @@
 # huffman-coding
-huffman coding c++ and python
+huffman coding c++ 
+mix coding python and c++ 
